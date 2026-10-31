@@ -1,0 +1,15 @@
+/vendor/
+/node_modules/
+/.env
+/.env.*
+!/env
+/writable/cache/*
+/writable/debugbar/*
+/writable/logs/*
+/writable/session/*
+/writable/uploads/*
+!.gitkeep
+*.log
+.DS_Store
+Thumbs.db
+.vscode/*.code-workspace
